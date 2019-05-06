@@ -1,20 +1,19 @@
-# 全国高校联赛
+# 明风智和杯全国立直麻将网络联赛
 
-> [花鸟风月杯](hnfy.md)  
+> [明风智和杯](hnfy.md)  
 > ["花鸟风月"记·二十四校本纪·序](bj.md)  
-> [【花鳥風月】比赛日程](day.md)  
-> [【花鳥風月】積分榜](pt.md)  
-> [【花鳥風月】直播間](https://live.bilibili.com/8170380)  
-> [【花鳥風月】BAN记录](ban.md)  
+> [【明风智和】比赛日程](day.md)  
+> [【明风智和】積分榜](pt.md)  
+> [【明风智和】直播間](https://live.bilibili.com/8170380)    
 > [【花鳥風月】MVP记录](mvp.md)  
 ----
 
-> [【花鳥風月】比赛记录](https://mahjong.pub/?cid=37)
+> [【明风智和】比赛记录](https://mahjong.pub/?cid=47)
 
 ## 赞助清单
 #### 感谢下列教练对本赛事的大力支持
 
-### 最爱炮J 东白乐的小蛇 木铭轩 JY 氷花 水怪 kumarain 夜空 幽幽子 暗晨 月永 百合雨  zhongren toki Cierra
+### 最爱炮J 东白乐的小蛇 木铭轩 JY 氷花 水怪 kumarain 夜空 幽幽子 暗晨 月永 百合雨  zhongren toki Cierra 提亚拉 糖不甜了
 
 
 
