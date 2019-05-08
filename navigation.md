@@ -4,6 +4,6 @@
 
 ["明风智和"全国立直麻将网络联赛](hnfy.md)
 
-["明风智和"積分榜](pt.md)
+["明风智和"积分榜](pt.md)
 
 [gimmick:ThemeChooser](THEME)
