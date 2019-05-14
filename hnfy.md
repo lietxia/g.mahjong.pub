@@ -1,7 +1,7 @@
 # "明风智和"全国立直麻将网络联赛
 
 > [比赛日程](day.md)  
-> [【明风智和】比赛记录]https://mahjong.pub/?cid=47)
+> [【明风智和】比赛记录](https://mahjong.pub/?cid=47)
 
 ## 参赛方法
 
