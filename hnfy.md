@@ -6,8 +6,8 @@
 ## 参赛方法
 
 本比赛分 24 个阵营，参赛需要加入 24 支学校其中一个。
-高校列表：https://g.mahjong.pub  
-高校 QQ 总群：606313729
+[高校列表](https://g.mahjong.pub)  
+点击链接加入 [高校 QQ 总群：606313729](https://jq.qq.com/?_wv=1027&k=5HGEynR)  
 
 ## 比赛时间
 
