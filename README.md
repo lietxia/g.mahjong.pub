@@ -10,3 +10,8 @@
 * [【明风智和】比赛日程](day.md)  
 * [【明风智和】積分榜](pt.md)  
 * [【花鳥風月】MVP记录](mvp.md)  
+
+----
+
+[MARKDOWN语法](https://www.jianshu.com/p/191d1e21f7ed)
+
