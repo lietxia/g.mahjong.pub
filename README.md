@@ -1,4 +1,4 @@
-#高校联赛
+# 高校联赛
 
 有疑问可以联系我 QQ252373009 [點這也行](http://wpa.qq.com/msgrd?v=3&site=qq&menu=yes&uin=252373009)
 
