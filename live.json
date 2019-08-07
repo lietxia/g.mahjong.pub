@@ -1,12 +1,8 @@
 [
     [
         "img/bilibili.gif",
-        "img/bilibili.gif",
-        "img/bilibili.gif"
     ],
     [
-        "./",
-        "./",
-        "./"
+        "https://live.bilibili.com/104",
     ]
 ]
