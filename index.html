@@ -10,13 +10,11 @@
 
 <head>
   <title>MDwiki</title>
-  <script> //干掉傻逼的疼逊链接
+  <script>
     (function () {
       var patt = new RegExp(/(.+)[\?\&]tdsourcetag\=\w+$/);
       var arr = patt.exec(window.location.href);
-      if (arr != null) {
-        window.location.href = arr[1];
-      }
+      if (arr != null) { window.location.href = arr[1]; }
     }())
   </script>
 
