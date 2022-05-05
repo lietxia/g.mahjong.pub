@@ -232,7 +232,7 @@
     marked.setOptions(options);
 
     // get sample markdown
-    var uglyHtml = marked(markdown);
+    var uglyHtml = marked.parse(markdown);
     return uglyHtml;
   }
 
